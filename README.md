@@ -30,7 +30,7 @@
 
 
 ## Просмотр дашборда
-
+![Превью дашборда «Клиенты банка»](dashboard-preview.png)
 - **[Открыть интерактивный дашборд в Yandex DataLens](https://datalens.yandex/02r0gt3ndnael?_share_link=public)**
 - [Посмотреть PDF-превью дашборда](bank-customer-dashboard.pdf)
 ## Статус проекта
